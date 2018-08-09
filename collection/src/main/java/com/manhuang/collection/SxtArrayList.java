@@ -1,7 +1,5 @@
 package com.manhuang.collection;
 
-import java.util.ArrayList;
-import java.util.List;
 
 /*
  * 自己实现一个ArrayList，更好的去理解ArrayList类的底层结构

@@ -14,15 +14,12 @@
 
 
 
-微信公众号：
+# 微信公众号：
 
 ![image](https://github.com/18792647864/mhjavabase/blob/master/mywechatpublicnumber.jpg)
 
 
 
-微信号：
+# 微信号：
 
 ![image](https://github.com/18792647864/mhjavabase/blob/master/mywechat.jpg)
-
-
-
